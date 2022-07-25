@@ -1,5 +1,6 @@
 public class Context {
     IStrategy strategy;
+
     public  void strategyApply(){
         strategy.strategyApply();
 
